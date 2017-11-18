@@ -1,3 +1,3 @@
-# robinhood
+# Robinhood
 A set of curious artifacts.
- Use with your creativity. Use at your own riks :)
+ Use it with your creativity. Use at your own riks :)
